@@ -1,2 +1,2 @@
 # NMV2
-Druge vezbe neuralnih
+Druge vezbe neuralnih, pravimo viseslojnu mrezu.
